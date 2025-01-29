@@ -52,9 +52,6 @@ export default function ContactPage() {
             <p className="mb-2">
               <span className="font-bold">Phone:</span> +1 (555) 123-4567 ☎️
             </p>
-            <p>
-              <span className="font-bold">Address:</span> 123 Movie Lane, Hollywood, CA 90001 🏠
-            </p>
           </div>
         </div>
       </main>
